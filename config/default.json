@@ -1,0 +1,19 @@
+{
+    "db-connections": {
+        "mongodb" : {
+            "host" : "cluster0.ov8ef.mongodb.net", 
+            "user" : "user_api_uno",
+            "password": "kljs0mASHC6wSuxC",
+            "dbname": "apiRestDB"
+        }
+    },
+    "secretkeys": {
+        "cryptojs": "dhwk76zFKG",
+        "jwt": "AaB%854"
+    },
+    "roles": {
+        "student": 1,
+        "teacher": 2
+    },
+    "server-port": 3000
+}
